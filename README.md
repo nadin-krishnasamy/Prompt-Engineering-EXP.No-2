@@ -23,3 +23,4 @@ Your goal is to determine which combination of prompting technique + platform pr
 OUTPUT:
 
 RESULT:
+Thus effectiveness of prompting techniques are compared and evaluated successfully.
